@@ -1,0 +1,19 @@
+{
+  "name": "atcoder_k_yama",
+  "version": "1.0.0",
+  "description": "AtCoderへチャレンジ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kengo-yamashita/AtCoder_k_yama.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kengo-yamashita/AtCoder_k_yama/issues"
+  },
+  "homepage": "https://github.com/kengo-yamashita/AtCoder_k_yama#readme"
+}
